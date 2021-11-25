@@ -1,0 +1,6 @@
+[submodule "shopping-front-end"]
+	path = shopping-front-end
+	url = git@github.com:forhadmethun/shopping-front-end.git
+[submodule "shopping-back-end"]
+	path = shopping-back-end
+	url = git@github.com:forhadmethun/shopping-back-end.git
